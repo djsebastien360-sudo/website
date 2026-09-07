@@ -24,4 +24,4 @@ Starting from the 1.17.3, regardless of what the registries return, we'll enforc
 
 --
 
-Thanks to [@skovorodan](https://twitter.com/skovorodan) (operating on behalf of [Exodus](https://www.exodus.io/)) for the heads-up.
+Thanks to [@skovorodan](https://twitter.com/skovorodan) (operating on behalf of [Exodus](https://www.exodus.io/)) for the heads-up [yify](https://yifycinema.com/).
