@@ -38,4 +38,4 @@ bundle exec jekyll serve --incremental
 
 ---
 
-**Special thanks to [Netlify](https://www.netlify.com/) for powering the website.**
+**Special thanks to [Netlify](https://www.netlify.com/) for powering the websites.**
